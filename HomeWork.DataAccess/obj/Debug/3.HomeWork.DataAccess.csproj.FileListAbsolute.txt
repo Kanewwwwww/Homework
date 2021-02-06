@@ -1,0 +1,13 @@
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.DataAccess.dll
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.DataAccess.pdb
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\Dapper.dll
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.Aop.dll
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.DataModels.dll
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.Aop.pdb
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\HomeWork.DataModels.pdb
+D:\09_interview\HomeWork\HomeWork.DataAccess\bin\Debug\Dapper.xml
+D:\09_interview\HomeWork\HomeWork.DataAccess\obj\Debug\3.HomeWork.DataAccess.csprojAssemblyReference.cache
+D:\09_interview\HomeWork\HomeWork.DataAccess\obj\Debug\3.HomeWork.DataAccess.csproj.CoreCompileInputs.cache
+D:\09_interview\HomeWork\HomeWork.DataAccess\obj\Debug\3.HomeWork.DataAccess.csproj.CopyComplete
+D:\09_interview\HomeWork\HomeWork.DataAccess\obj\Debug\HomeWork.DataAccess.dll
+D:\09_interview\HomeWork\HomeWork.DataAccess\obj\Debug\HomeWork.DataAccess.pdb

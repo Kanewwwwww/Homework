@@ -1,0 +1,6 @@
+D:\09_interview\HomeWork\HomeWork.DataModels\bin\Debug\HomeWork.DataModels.dll
+D:\09_interview\HomeWork\HomeWork.DataModels\bin\Debug\HomeWork.DataModels.pdb
+D:\09_interview\HomeWork\HomeWork.DataModels\obj\Debug\4.HomeWork.DataModels.csprojAssemblyReference.cache
+D:\09_interview\HomeWork\HomeWork.DataModels\obj\Debug\4.HomeWork.DataModels.csproj.CoreCompileInputs.cache
+D:\09_interview\HomeWork\HomeWork.DataModels\obj\Debug\HomeWork.DataModels.dll
+D:\09_interview\HomeWork\HomeWork.DataModels\obj\Debug\HomeWork.DataModels.pdb

@@ -1,0 +1,6 @@
+D:\09_interview\HomeWork\HomeWork.Aop\bin\Debug\HomeWork.Aop.dll
+D:\09_interview\HomeWork\HomeWork.Aop\bin\Debug\HomeWork.Aop.pdb
+D:\09_interview\HomeWork\HomeWork.Aop\obj\Debug\5.HomeWork.Aop.csprojAssemblyReference.cache
+D:\09_interview\HomeWork\HomeWork.Aop\obj\Debug\5.HomeWork.Aop.csproj.CoreCompileInputs.cache
+D:\09_interview\HomeWork\HomeWork.Aop\obj\Debug\HomeWork.Aop.dll
+D:\09_interview\HomeWork\HomeWork.Aop\obj\Debug\HomeWork.Aop.pdb
